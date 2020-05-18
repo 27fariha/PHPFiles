@@ -1,0 +1,16 @@
+Form Handling
+
+web server passes the info to the php script engine for :
+  1.processing the info
+  2.sending output back to the web browser
+
+
+form data is passed to the web server using following method 
+  1.Get
+  2.Post
+
+
+Web server :
+  1.Accepts the info
+  2.Processes the application data
+  3.stores it to the database but develper need to write code
